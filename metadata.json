@@ -1,0 +1,6 @@
+{
+  "name": "Worldwide Tours",
+  "description": "Karachi-based travel agency offering flight bookings, tour packages, hotel reservations, and customized travel arrangements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
